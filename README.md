@@ -27,7 +27,7 @@ To learn more about Sablier, see the [Sablier Docs](https://docs.sablier.com/).
 
 ## Addresses
 
-You can see the deployment addresses [here](https://docs.sablier.com/contracts/v2/deployments).
+You can see the deployment addresses [here](https://docs.sablier.com/guides/flow/deployments).
 
 ### Packages
 
